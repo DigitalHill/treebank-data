@@ -1,0 +1,29 @@
+<treebank xml:lang='lat' format='adlt' version='1.5'>
+  <date>Mon Mar 02 11:04:26 +0000 2015</date>
+  <annotator>
+    <short/>
+    <name/>
+    <address/>
+    <uri>http:&#x2F;&#x2F;services2.perseids.org&#x2F;llt&#x2F;segtok</uri>
+  </annotator>
+  <annotator>
+    <short/>
+    <name/>
+    <address/>
+    <uri>http:&#x2F;&#x2F;github.com&#x2F;latin-language-toolkit&#x2F;arethusa</uri>
+  </annotator>
+  <annotator>
+    <short>Marcel Mernitz</short>
+    <name>Marcel Mernitz</name>
+    <address>marcelmernitz@googlemail.com</address>
+    <uri>http:&#x2F;&#x2F;data.perseus.org&#x2F;sosol&#x2F;users&#x2F;Marcel%20Mernitz</uri>
+  </annotator>
+  <sentence id='1' document_id='' subdoc='' span=''>
+    <word id='1' form='testudines' lemma='testudines' postag='n-p---fa-' relation='OBJ' sg='' gloss='tortoise' head='4'/>
+    <word id='2' form='artemonem' lemma='artemon' postag='n-s---ma-' relation='SBJ' sg='' gloss='Artemon' head='4'/>
+    <word id='3' form='clazomenium' lemma='clazomenium' postag='n-s---mg-' relation='ATR' sg='' gloss='Clazomenae' head='2'/>
+    <word id='4' form='invenisse' lemma='invenisse' postag='v--rna---' relation='OBJ' gloss='invent' sg='' head='5'/>
+    <word id='5' form='dicunt' lemma='dicunt' postag='v3ppia---' relation='PRED' gloss='say' sg='' head='0'/>
+    <word id='6' form='.' lemma='punc1' postag='u--------' relation='AuxK' sg='' head='0'/>
+  </sentence>
+</treebank>
