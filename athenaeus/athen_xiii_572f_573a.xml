@@ -1,0 +1,69 @@
+<treebank xmlns:saxon='http:&#x2F;&#x2F;saxon.sf.net&#x2F;' xml:lang='grc' format='smyth3' version='1.5'>
+  <date>Tue Mar 24 12:53:39 +0000 2015</date>
+  <annotator>
+    <short/>
+    <name/>
+    <address/>
+    <uri>http:&#x2F;&#x2F;services2.perseids.org&#x2F;llt&#x2F;segtok</uri>
+  </annotator>
+  <annotator>
+    <short/>
+    <name/>
+    <address/>
+    <uri>http:&#x2F;&#x2F;github.com&#x2F;latin-language-toolkit&#x2F;arethusa</uri>
+  </annotator>
+  <annotator>
+    <short>Marcel Mernitz</short>
+    <name>Marcel Mernitz</name>
+    <address>marcelmernitz@googlemail.com</address>
+    <uri>http:&#x2F;&#x2F;data.perseus.org&#x2F;sosol&#x2F;users&#x2F;Marcel%20Mernitz</uri>
+  </annotator>
+  <sentence id='1' document_id='' subdoc='' span=''>
+    <word id='1' form='Ἄλεξις' lemma='Ἄλεξις' postag='n-s---fn-' relation='SBJ' sg='nmn dpd' gloss='Alexis' head='28'/>
+    <word id='2' form='δ᾽' lemma='δέ' postag='d--------' relation='COORD' sg='prt' gloss='and' head='0'/>
+    <word id='3' form='ὁ' lemma='ὁ' postag='l-s---mn-' relation='ATR' sg='' gloss='the' head='4'/>
+    <word id='4' form='Σάμιος' lemma='Σάμιος' postag='a-s---mn-' relation='APOS' gloss='Samian' sg='sbs nmn dpd' head='1'/>
+    <word id='5' form='ἐν' lemma='ἐν' postag='r--------' relation='AuxP' sg='' gloss='in' head='28'/>
+    <word id='6' form='δευτέρῳ' lemma='δεύτερος' postag='a-s---md-' relation='ADV' sg='sbs dtv dpd lcv plc lct cnc' gloss='second.book' head='5'/>
+    <word id='7' form='Ὥρων' lemma='ὧρος' postag='n-p---mg-' relation='ATR' sg='gnt dpd prp pss_bln' gloss='annals' head='6'/>
+    <word id='8' form='Σαμιακῶν' lemma='Σαμιακός' postag='a-p---mg-' relation='APOS' sg='sbs gnt dpd prp pss_bln' gloss='Samian' head='7'/>
+    <word id='9' form='τὴν' lemma='ὁ' postag='l-s---fa-' relation='ATR' sg='' gloss='the' head='12'/>
+    <word id='10' form='ἐν' lemma='ἐν' postag='r--------' relation='AuxP' sg='' gloss='in' head='12'/>
+    <word id='11' form='Σάμῳ' lemma='Σάμος' postag='n-s---fd-' relation='ADV' sg='dtv dpd lcv plc lct cnc' gloss='Samos' head='10'/>
+    <word id='12' form='Ἀφροδίτην' lemma='Ἀφροδίτη' postag='n-s---fa-' relation='OBJ' sg='acc dpd aff' gloss='Aphrodite' head='31'/>
+    <word id='13' form=',' lemma='punc1' postag='u--------' relation='AuxX' sg='' head='12'/>
+    <word id='14' form='ἣν' lemma='ὅς' postag='p-s---fa-' relation='OBJ' sg='sbs acc dpd aff' gloss='that' head='19'/>
+    <word id='15' form='οἱ' lemma='οἱ' postag='p-p---mn-' relation='SBJ' sg='sbs nmn dpd' gloss='they' head='19'/>
+    <word id='16' form='μὲν' lemma='μέν' postag='d--------' relation='AuxZ' sg='prt' gloss='indeed' head='19'/>
+    <word id='17' form='ἐν' lemma='ἐν' postag='r--------' relation='AuxP_CO' sg='' gloss='in' head='19'/>
+    <word id='18' form='καλάμοις' lemma='κάλαμος' postag='n-p---md-' relation='ADV_CO' sg='dtv dpd lcv plc lct cnc' gloss='reed' head='17'/>
+    <word id='19' form='καλοῦσιν' lemma='καλέω' postag='v3ppia---' relation='ATR_CO' sg='dpn sbs_cls stt not_ind' gloss='call' head='22'/>
+    <word id='20' form=',' lemma='punc1' postag='u--------' relation='AuxX' sg='' head='22'/>
+    <word id='21' form='οἱ' lemma='οἱ' postag='p-p---mn-' relation='SBJ' sg='sbs nmn dpd' gloss='they' head='46'/>
+    <word id='22' form='δὲ' lemma='δέ' postag='d--------' relation='COORD' sg='prt' gloss='and' head='31'/>
+    <word id='23' form='ἐν' lemma='ἐν' postag='r--------' relation='AuxP_CO' sg='' gloss='in' head='46'/>
+    <word id='24' form='ἕλει' lemma='ἕλος' postag='n-s---nd-' relation='ADV_CO' sg='dtv dpd lcv plc lct cnc' gloss='marsh.meadow' head='23'/>
+    <word id='25' form=',' lemma='punc1' postag='u--------' relation='AuxX' sg='' head='24'/>
+    <word id='26' form='Ἀττικαί' lemma='Ἀττικός' postag='a-p---fn-' relation='ATR' sg='prp' gloss='Athenian' head='30'/>
+    <word id='27' form=',' lemma='punc1' postag='u--------' relation='AuxX' sg='' head='26'/>
+    <word id='28' form='φησίν' lemma='φημί' postag='v3spia---' relation='PRED_CO' sg='ind stt' gloss='say' head='2'/>
+    <word id='29' form=',' lemma='punc1' postag='u--------' relation='AuxX' sg='' head='28'/>
+    <word id='30' form='ἑταῖραι' lemma='ἑταίρα' postag='n-p---fn-' relation='SBJ' sg='nmn dpd' gloss='companion' head='31'/>
+    <word id='31' form='ἱδρύσαντο' lemma='ἱδρύω' postag='v3paim---' relation='OBJ' sg='dpn sbs_cls stt ind' gloss='dedicate.a.statue' head='28'/>
+    <word id='32' form='αἱ' lemma='ὁ' postag='l-p---fn-' relation='ATR' sg='' gloss='the' head='33'/>
+    <word id='33' form='συνακολουθήσασαι' lemma='συνακολουθέω' postag='v-papafn-' relation='APOS' sg='sbs nmn dpd' gloss='follow' head='30'/>
+    <word id='34' form='Περικλεῖ' lemma='Περικλῆς' postag='n-s---md-' relation='OBJ' sg='dtv dpd prp drc' gloss='Pericles' head='33'/>
+    <word id='35' form='ὅτε' lemma='ὅτε' postag='c--------' relation='AuxC' sg='' gloss='when' head='33'/>
+    <word id='36' form='ἐπολιόρκει' lemma='πολιορκέω' postag='v3siia---' relation='ADV' sg='dpn adv_cls tmp sml_lct not_ind' gloss='besiege' head='35'/>
+    <word id='37' form='τὴν' lemma='ὁ' postag='l-s---fa-' relation='ATR' sg='' gloss='the' head='38'/>
+    <word id='38' form='Σάμον' lemma='Σάμος' postag='n-s---fa-' relation='OBJ' sg='acc dpd aff' gloss='Samos' head='36'/>
+    <word id='39' form=',' lemma='punc1' postag='u--------' relation='AuxX' sg='' head='38'/>
+    <word id='40' form='ἐργασάμεναι' lemma='ἐργάζομαι' postag='v-papefn-' relation='ADV' sg='adj crc cau' gloss='earn.by.work' head='30'/>
+    <word id='41' form='ἱκανῶς' lemma='ἱκανῶς' postag='d-------_' relation='ADV' sg='mnn' gloss='excessively' head='40'/>
+    <word id='42' form='ἀπὸ' lemma='ἀπό' postag='r--------' relation='AuxP' sg='' gloss='because.of' head='40'/>
+    <word id='43' form='τῆς' lemma='ὁ' postag='l-s---fg-' relation='ATR' sg='' gloss='the' head='44'/>
+    <word id='44' form='ὥρας' lemma='ὥρα' postag='n-s---fg-' relation='OBJ' sg='gnt dpd abl cau' gloss='beauty' head='42'/>
+    <word id='45' form='.' lemma='punc1' postag='u--------' relation='AuxK' sg='' head='0'/>
+    <word id='46' insertion_id='0024e' artificial='elliptic' relation='ATR_CO' form='καλοῦσιν' lemma='καλέω' postag='v3ppia---' gloss='call' sg='' head='22'/>
+  </sentence>
+</treebank>

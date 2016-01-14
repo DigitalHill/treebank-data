@@ -1,0 +1,46 @@
+<treebank xml:lang='grc' format='smyth3' version='1.5'>
+  <date>Thu Mar 19 12:57:59 +0000 2015</date>
+  <annotator>
+    <short/>
+    <name/>
+    <address/>
+    <uri>http:&#x2F;&#x2F;services2.perseids.org&#x2F;llt&#x2F;segtok</uri>
+  </annotator>
+  <annotator>
+    <short/>
+    <name/>
+    <address/>
+    <uri>http:&#x2F;&#x2F;github.com&#x2F;latin-language-toolkit&#x2F;arethusa</uri>
+  </annotator>
+  <annotator>
+    <short>Marcel Mernitz</short>
+    <name>Marcel Mernitz</name>
+    <address>marcelmernitz@googlemail.com</address>
+    <uri>http:&#x2F;&#x2F;data.perseus.org&#x2F;sosol&#x2F;users&#x2F;Marcel%20Mernitz</uri>
+  </annotator>
+  <sentence id='1' document_id='' subdoc='' span=''>
+    <word id='1' form='ἐψηφίσαντο' lemma='ψηφίζω' insertion_id='0000e' artificial='elliptic' postag='v3paim---' relation='PRED_CO' gloss='vote' sg='ind stt' head='17'/>
+    <word id='2' form='τούς' lemma='ὁ' postag='l-p---ma-' relation='ATR' sg='' gloss='the' head='6'/>
+    <word id='3' form='γε' lemma='γε' postag='d--------' relation='COORD' sg='prt' gloss='at.least' head='0'/>
+    <word id='4' form='μὴν' lemma='μήν' postag='d--------' relation='AuxY' sg='prt' gloss='truly' head='3'/>
+    <word id='5' form='ἁλισκομένους' lemma='ἁλίσκομαι' postag='v-pppema-' relation='APOS' sg='sbs acc dpd aff' gloss='take.as.prisoner' head='6'/>
+    <word id='6' form='αἰχμαλώτους' lemma='αἰχμάλωτος' postag='a-p---ma-' relation='SBJ' sg='sbs acc dpd aff' gloss='prisoner' head='8'/>
+    <word id='7' form='Σαμίων' lemma='Σάμιος' postag='a-p---mg-' relation='ATR' sg='sbs gnt dpd prp pss_bln' gloss='Samosian' head='6'/>
+    <word id='8' form='στίζειν' lemma='στίζω' postag='v--pna---' relation='OBJ_CO' sg='dpd vrb as_acc ind stt' gloss='tattoo' head='12'/>
+    <word id='9' form='κατὰ' lemma='κατά' postag='r--------' relation='AuxP' sg='' gloss='in' head='8'/>
+    <word id='10' form='τοῦ' lemma='ὁ' postag='l-s---ng-' relation='ATR' sg='' gloss='the' head='11'/>
+    <word id='11' form='προσώπου' lemma='πρόσωπον' postag='n-s---ng-' relation='OBJ' sg='gnt dpd tmp_plc plc lct cnc' gloss='face' head='9'/>
+    <word id='12' form='καὶ' lemma='καί' postag='c--------' relation='COORD' sg='' gloss='and' head='1'/>
+    <word id='13' form='εἶναι' lemma='εἰμί' postag='v--pna---' relation='OBJ_CO' sg='dpd vrb as_acc ind stt' gloss='be' head='12'/>
+    <word id='14' form='τὸ' lemma='ὁ' postag='l-s---na-' relation='ATR' sg='' gloss='the' head='15'/>
+    <word id='15' form='στίγμα' lemma='στίγμα' postag='n-s---na-' relation='SBJ' sg='nmn dpd' gloss='sign' head='13'/>
+    <word id='16' form='γλαῦκα' lemma='γλαύξ' postag='n-s---fa-' relation='PNOM' sg='nmn dpd' gloss='owl' head='13'/>
+    <word id='17' form=',' lemma='punc1' postag='u--------' relation='COORD' sg='' head='3'/>
+    <word id='18' form='καὶ' lemma='καί' postag='c--------' relation='AuxZ' sg='' gloss='also' head='22'/>
+    <word id='19' form='τοῦτο' lemma='οὗτος' postag='p-s---nn-' relation='SBJ' sg='sbs nmn dpd' gloss='this' head='22'/>
+    <word id='20' form='Ἀττικὸν' lemma='Ἀττικός' postag='a-s---nn-' relation='ATR' sg='prp' gloss='Attic' head='21'/>
+    <word id='21' form='ψήφισμα' lemma='ψήφισμα' postag='n-s---nn-' relation='PNOM' sg='nmn dpd' gloss='decree' head='22'/>
+    <word id='22' form='ἦν' lemma='εἰμί' insertion_id='0021e' artificial='elliptic' postag='v3siia---' relation='PRED_CO' sg='' gloss='be' head='17'/>
+    <word id='23' form='.' lemma='punc1' postag='u--------' relation='AuxK' sg='' head='0'/>
+  </sentence>
+</treebank>

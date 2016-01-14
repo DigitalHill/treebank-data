@@ -1,0 +1,45 @@
+<treebank xml:lang='grc' format='smyth3' version='1.5'>
+  <date>Tue Mar 03 15:35:53 +0000 2015</date>
+  <annotator>
+    <short/>
+    <name/>
+    <address/>
+    <uri>http:&#x2F;&#x2F;services2.perseids.org&#x2F;llt&#x2F;segtok</uri>
+  </annotator>
+  <annotator>
+    <short/>
+    <name/>
+    <address/>
+    <uri>http:&#x2F;&#x2F;github.com&#x2F;latin-language-toolkit&#x2F;arethusa</uri>
+  </annotator>
+  <annotator>
+    <short>Marcel Mernitz</short>
+    <name>Marcel Mernitz</name>
+    <address>marcelmernitz@googlemail.com</address>
+    <uri>http:&#x2F;&#x2F;data.perseus.org&#x2F;sosol&#x2F;users&#x2F;Marcel%20Mernitz</uri>
+  </annotator>
+  <sentence id='1' document_id='' subdoc='' span=''>
+    <word id='1' form='ἐκ' lemma='ἐκ' postag='r--------' relation='AuxP' sg='' gloss='after' head='3'/>
+    <word id='2' form='τούτου' lemma='οὗτος' postag='p-s---ng-' relation='OBJ' sg='sbs gnt dpd tmp_plc tmp squ_lct' gloss='that' head='1'/>
+    <word id='3' form='ψηφίζεται' lemma='ψηφίζω' postag='v3spie---' relation='PRED' sg='ind stt' gloss='vote' head='0'/>
+    <word id='4' form='τὸν' lemma='ὁ' postag='l-s---ma-' relation='ATR' sg='' gloss='the' head='7'/>
+    <word id='5' form='εἰς' lemma='εἰς' postag='r--------' relation='AuxP' sg='' gloss='to' head='7'/>
+    <word id='6' form='Σάμον' lemma='Σάμος' postag='n-s---fa-' relation='ADV' sg='acc dpd drc cnc' gloss='Samos' head='5'/>
+    <word id='7' form='πλοῦν' lemma='πλόος' postag='n-s---ma-' relation='OBJ' sg='acc dpd aff' gloss='ship' head='3'/>
+    <word id='8' form=',' lemma='punc1' postag='u--------' relation='AuxX' sg='' head='6'/>
+    <word id='9' form='αἰτίαν' lemma='αἰτία' postag='n-s---fa-' relation='OBJ' sg='acc dpd aff' gloss='accusation' head='10'/>
+    <word id='10' form='ποιησάμενος' lemma='ποιέω' postag='v-sapmmn-' relation='ADV' sg='adj crc tmp squ_lct' gloss='make' head='3'/>
+    <word id='11' form='κατʼ' lemma='κατʼ' postag='r--------' relation='AuxP' sg='' gloss='against' head='10'/>
+    <word id='12' form='αὐτῶν' lemma='αὐτός' postag='p-p---mg-' relation='OBJ' sg='sbs gnt dpd adp dsd' gloss='they' head='11'/>
+    <word id='13' form='ὅτι' lemma='ὅτι2' postag='c--------' relation='AuxC' sg='' gloss='that' head='10'/>
+    <word id='14' form='τὸν' lemma='ὁ' postag='l-s---ma-' relation='ATR' sg='' gloss='the' head='19'/>
+    <word id='15' form='πρὸς' lemma='πρός' postag='r--------' relation='AuxP' sg='' gloss='against' head='19'/>
+    <word id='16' form='Μιλησίους' lemma='Μιλήσιος' postag='a-p---ma-' relation='ADV' sg='sbs acc dpd adp hst_ass' gloss='Mileasian' head='15'/>
+    <word id='17' form='κελευόμενοι' lemma='κελεύω' postag='v-pppemn-' relation='ADV' sg='adj crc tmp sml_lct' gloss='urge' head='21'/>
+    <word id='18' form='διαλύσασθαι' lemma='διαλύω' postag='v--anm---' relation='OBJ' sg='dpd vrb as_acc ind cmm' gloss='break.off' head='17'/>
+    <word id='19' form='πόλεμον' lemma='πόλεμος' postag='n-s---ma-' relation='OBJ' sg='acc dpd aff' gloss='war' head='18'/>
+    <word id='20' form='οὐχ' lemma='οὐ' postag='d--------' relation='AuxZ' sg='ngt' gloss='not' head='21'/>
+    <word id='21' form='ὑπήκουον' lemma='ὑπακούω' postag='v3piia---' relation='OBJ' sg='dpn sbs_cls stt ind' gloss='give.hear' head='13'/>
+    <word id='22' form='.' lemma='punc1' postag='u--------' relation='AuxK' sg='' head='0'/>
+  </sentence>
+</treebank>

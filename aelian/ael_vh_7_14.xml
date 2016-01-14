@@ -1,0 +1,55 @@
+<treebank xmlns:saxon='http:&#x2F;&#x2F;saxon.sf.net&#x2F;' xml:lang='grc' format='smyth3' version='1.5'>
+  <date>Thu Mar 19 13:14:12 +0000 2015</date>
+  <annotator>
+    <short/>
+    <name/>
+    <address/>
+    <uri>http:&#x2F;&#x2F;services2.perseids.org&#x2F;llt&#x2F;segtok</uri>
+  </annotator>
+  <annotator>
+    <short/>
+    <name/>
+    <address/>
+    <uri>http:&#x2F;&#x2F;github.com&#x2F;latin-language-toolkit&#x2F;arethusa</uri>
+  </annotator>
+  <annotator>
+    <short>Marcel Mernitz</short>
+    <name>Marcel Mernitz</name>
+    <address>marcelmernitz@googlemail.com</address>
+    <uri>http:&#x2F;&#x2F;data.perseus.org&#x2F;sosol&#x2F;users&#x2F;Marcel%20Mernitz</uri>
+  </annotator>
+  <sentence id='1' document_id='' subdoc='' span=''>
+    <word id='1' form='τί' lemma='τις' postag='p-s---nn-' relation='SBJ' gloss='what' sg='sbs nmn dpd' head='4'/>
+    <word id='2' form='δέ' lemma='δέ' postag='d--------' relation='COORD' gloss='and' sg='prt' head='0'/>
+    <word id='3' form=';' lemma='punc1' postag='u--------' relation='AuxK' sg='' head='0'/>
+    <word id='4' insertion_id='0002e' artificial='elliptic' relation='PRED_CO' form='ἦν' lemma='εἰμί' postag='v3siia---' gloss='be' sg='ind qst' head='2'/>
+  </sentence>
+  <sentence id='2' document_id='' subdoc='' span=''>
+    <word id='1' form='οὐκ' lemma='οὐ' postag='d--------' relation='AuxZ' gloss='not' sg='ngt' head='2'/>
+    <word id='2' form='ἦσαν' lemma='εἰμί' postag='v3piia---' relation='PRED' sg='ind qst' gloss='be' head='0'/>
+    <word id='3' form='καὶ' lemma='καί' postag='c--------' relation='AuxZ' gloss='also' sg='' head='2'/>
+    <word id='4' form='οἱ' lemma='ὁ' postag='l-p---mn-' relation='ATR' sg='' gloss='the' head='5'/>
+    <word id='5' form='φιλόσοφοι' lemma='φιλόσοφος' postag='n-p---mn-' relation='SBJ' sg='nmn dpd' gloss='philosopher' head='2'/>
+    <word id='6' form='τὰ' lemma='ὁ' postag='l-p---na-' relation='ATR' sg='' gloss='in' head='7'/>
+    <word id='7' form='πολέμια' lemma='πολέμιος' postag='a-p---na-' relation='OBJ' sg='sbs acc dpd aff' gloss='war' head='2'/>
+    <word id='8' form='ἀγαθοί' lemma='ἀγαθός' postag='a-p---mn-' relation='PNOM' sg='prp' gloss='brave' head='2'/>
+    <word id='9' form=';' lemma='punc1' postag='u--------' relation='AuxK' sg='' head='0'/>
+  </sentence>
+  <sentence id='3' document_id='' subdoc='' span=''>
+    <word id='1' form='ἐμοὶ' lemma='ἐγώ' postag='p1s---md-' relation='OBJ' sg='sbs dtv dpd prp drc' gloss='me' head='3'/>
+    <word id='2' form='μὲν' lemma='μέν' postag='d--------' relation='COORD' sg='mnn' gloss='indeed' head='0'/>
+    <word id='3' form='δοκοῦσιν' lemma='δοκέω' postag='v3ppia---' relation='PRED_CO' gloss='seem' sg='ind stt' head='2'/>
+    <word id='4' form=',' lemma='punc1' postag='u--------' relation='AuxX' sg='' head='3'/>
+    <word id='5' form='εἴ' lemma='εἰ' postag='c--------' relation='AuxC' sg='' gloss='since' head='3'/>
+    <word id='6' form='γε' lemma='γε' postag='d--------' relation='ADV' sg='prt' gloss='namely' head='7'/>
+    <word id='7' form='Μέλισσος' lemma='Μέλισσος' postag='n-s---mn-' relation='SBJ' sg='nmn dpd' gloss='Melissos' head='9'/>
+    <word id='8' form='δὲ' lemma='δέ' postag='d--------' relation='AuxY' sg='prt' gloss='and' head='12'/>
+    <word id='9' form='ἐναυάρχησε' lemma='ναυαρχέω' postag='v3saia---' relation='ADV_CO' sg='dpn adv_cls tmp sml_lct not_ind' gloss='command.a.fleet' head='12'/>
+    <word id='10' form=',' lemma='punc1' postag='u--------' relation='AuxX' sg='' head='12'/>
+    <word id='11' form='Σωκράτης' lemma='Σωκράτης' postag='n-p---mn-' relation='SBJ' sg='nmn dpd' gloss='Socrates' head='13'/>
+    <word id='12' form='δὲ' lemma='δέ' postag='d--------' relation='COORD' sg='prt' gloss='and' head='5'/>
+    <word id='13' form='ἐστρατεύσατο' lemma='στρατεύω' postag='v3saim---' relation='ADV_CO' sg='dpn adv_cls tmp sml_lct not_ind' gloss='serve.in.the.army' head='12'/>
+    <word id='14' form='τρίς' lemma='τρίς' postag='d--------' relation='ADV' gloss='three.times' sg='tmp sml_lct' head='13'/>
+    <word id='15' form='.' lemma='punc1' postag='u--------' relation='AuxK' sg='' head='0'/>
+  </sentence>
+</treebank>

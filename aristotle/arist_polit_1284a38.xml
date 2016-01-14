@@ -1,0 +1,62 @@
+<treebank xml:lang='grc' format='smyth3' version='1.5'>
+  <date>Thu Mar 26 09:48:55 +0000 2015</date>
+  <annotator>
+    <short/>
+    <name/>
+    <address/>
+    <uri>http:&#x2F;&#x2F;services2.perseids.org&#x2F;llt&#x2F;segtok</uri>
+  </annotator>
+  <annotator>
+    <short/>
+    <name/>
+    <address/>
+    <uri>http:&#x2F;&#x2F;github.com&#x2F;latin-language-toolkit&#x2F;arethusa</uri>
+  </annotator>
+  <annotator>
+    <short>Marcel Mernitz</short>
+    <name>Marcel Mernitz</name>
+    <address>marcelmernitz@googlemail.com</address>
+    <uri>http:&#x2F;&#x2F;data.perseus.org&#x2F;sosol&#x2F;users&#x2F;Marcel%20Mernitz</uri>
+  </annotator>
+  <sentence id='1' document_id='' subdoc='' span=''>
+    <word id='1' form='τὸ' lemma='ὁ' postag='l-s---na-' relation='ATR' sg='' gloss='the' head='3'/>
+    <word id='2' form='δʼ' lemma='δʼ' postag='d--------' relation='COORD' gloss='and' sg='prt' head='0'/>
+    <word id='3' form='αὐτὸ' lemma='αὐτός' postag='p-s---na-' relation='OBJ' sg='sbs acc dpd aff' gloss='same' head='11'/>
+    <word id='4' form='καὶ' lemma='καί' postag='c--------' relation='AuxY' sg='' gloss='both' head='8'/>
+    <word id='5' form='περὶ' lemma='περί' postag='r--------' relation='AuxP' sg='' gloss='regarding' head='11'/>
+    <word id='6' form='τὰς' lemma='ὁ' postag='l-p---fa-' relation='ATR' sg='' gloss='the' head='7'/>
+    <word id='7' form='πόλεις' lemma='πόλις' postag='n-p---fa-' relation='OBJ_CO' sg='acc dpd rsp' gloss='city' head='8'/>
+    <word id='8' form='καὶ' lemma='καί' postag='c--------' relation='COORD' sg='' gloss='and' head='5'/>
+    <word id='9' form='τὰ' lemma='ὁ' postag='l-p---na-' relation='ATR' sg='' gloss='the' head='10'/>
+    <word id='10' form='ἔθνη' lemma='ἔθνος' postag='n-p---na-' relation='OBJ_CO' sg='acc dpd rsp' gloss='people' head='8'/>
+    <word id='11' form='ποιοῦσιν' lemma='ποιέω' postag='v3ppia---' relation='PRED_CO' sg='ind stt' gloss='make' head='16'/>
+    <word id='12' form='οἱ' lemma='ὁ' postag='l-p---mn-' relation='ATR' sg='' gloss='the' head='13'/>
+    <word id='13' form='κύριοι' lemma='κύριος' postag='n-p---mn-' relation='SBJ' sg='nmn dpd' gloss='master' head='11'/>
+    <word id='14' form='τῆς' lemma='ὁ' postag='l-s---fg-' relation='ATR' sg='' gloss='the' head='15'/>
+    <word id='15' form='δυνάμεως' lemma='δύναμις' postag='n-s---fg-' relation='ATR' sg='gnt dpd prp pss_bln' gloss='power' head='13'/>
+    <word id='16' form=',' lemma='punc1' postag='u--------' relation='COORD' sg='' head='2'/>
+    <word id='17' form='οἷον' lemma='οἷον' postag='d-------_' relation='ADV' sg='mnn' gloss='such.as' head='34'/>
+    <word id='18' form='Ἀθηναῖοι' lemma='Ἀθηναῖος' postag='a-p---mn-' relation='SBJ' sg='sbs nmn dpd' gloss='Athenian' head='34'/>
+    <word id='19' form='μὲν' lemma='μέν' postag='d--------' relation='ADV' sg='mnn' gloss='indeed' head='30'/>
+    <word id='20' form='περὶ' lemma='περί' postag='r--------' relation='AuxP' sg='' gloss='about' head='30'/>
+    <word id='21' form='Σαμίους' lemma='Σάμιος' postag='a-p---ma-' relation='OBJ_CO' sg='sbs acc dpd ext spc lct fgr' gloss='Samian' head='24'/>
+    <word id='22' form='καὶ' lemma='καί' postag='c--------' relation='AuxY' sg='' gloss='and' head='24'/>
+    <word id='23' form='Χίους' lemma='Χῖος' postag='a-p---ma-' relation='OBJ_CO' sg='sbs acc dpd ext spc lct fgr' gloss='Chionian' head='24'/>
+    <word id='24' form='καὶ' lemma='καί' postag='c--------' relation='COORD' sg='' gloss='and' head='20'/>
+    <word id='25' form='Λεσβίους' lemma='Λέσβιος' postag='a-p---ma-' relation='OBJ_CO' sg='sbs acc dpd ext spc lct fgr' gloss='Lesbian' head='24'/>
+    <word id='26' form='ἐπεὶ' lemma='ἐπεί' postag='c--------' relation='AuxC' sg='' gloss='after' head='34'/>
+    <word id='27' form='γὰρ' lemma='γάρ' postag='d--------' relation='ADV' sg='cau' gloss='since' head='30'/>
+    <word id='28' form='θᾶττον' lemma='ταχύς' postag='a-s---nac' relation='ATR' sg='prp' gloss='quick' head='30'/>
+    <word id='29' form='ἐγκρατῶς' lemma='ἐγκρατῶς' postag='d-------_' relation='ADV' sg='mnn' gloss='power.of' head='30'/>
+    <word id='30' form='ἔσχον' lemma='ἔχω' postag='v3paia---' relation='ADV_CO' sg='dpn adv_cls tmp squ_lct not_ind' gloss='have' head='26'/>
+    <word id='31' form='τὴν' lemma='ὁ' postag='l-s---fa-' relation='ATR' sg='' gloss='the' head='32'/>
+    <word id='32' form='ἀρχήν' lemma='ἀρχή' postag='n-s---fa-' relation='OBJ' sg='acc dpd aff' gloss='reign' head='30'/>
+    <word id='33' form=',' lemma='punc1' postag='u--------' relation='AuxX' sg='' head='32'/>
+    <word id='34' form='ἐταπείνωσαν' lemma='ταπεινόω' postag='v3paia---' relation='PRED_CO' sg='ind stt' gloss='lessen' head='16'/>
+    <word id='35' form='αὐτοὺς' lemma='αὐτός' postag='p-p---ma-' relation='OBJ' sg='sbs acc dpd aff' gloss='they' head='34'/>
+    <word id='36' form='παρὰ' lemma='παρά' postag='r--------' relation='AuxP' sg='' gloss='because' head='34'/>
+    <word id='37' form='τὰς' lemma='ὁ' postag='l-p---fa-' relation='ATR' sg='' gloss='the' head='38'/>
+    <word id='38' form='συνθήκας' lemma='συνθήκη' postag='n-p---fa-' relation='OBJ' sg='acc dpd adp cau' gloss='article.of.a.contract' head='36'/>
+    <word id='39' form='.' lemma='punc1' postag='u--------' relation='AuxK' sg='' head='0'/>
+  </sentence>
+</treebank>

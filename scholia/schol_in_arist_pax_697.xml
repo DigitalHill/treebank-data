@@ -1,0 +1,35 @@
+<treebank xml:lang='grc' format='smyth3' version='1.5'>
+  <date>Mon Mar 02 10:22:26 +0000 2015</date>
+  <annotator>
+    <short/>
+    <name/>
+    <address/>
+    <uri>http:&#x2F;&#x2F;services2.perseids.org&#x2F;llt&#x2F;segtok</uri>
+  </annotator>
+  <annotator>
+    <short/>
+    <name/>
+    <address/>
+    <uri>http:&#x2F;&#x2F;github.com&#x2F;latin-language-toolkit&#x2F;arethusa</uri>
+  </annotator>
+  <annotator>
+    <short>Marcel Mernitz</short>
+    <name>Marcel Mernitz</name>
+    <address>marcelmernitz@googlemail.com</address>
+    <uri>http:&#x2F;&#x2F;data.perseus.org&#x2F;sosol&#x2F;users&#x2F;Marcel%20Mernitz</uri>
+  </annotator>
+  <sentence id='1' document_id='' subdoc='' span=''>
+    <word id='1' form='Λέγεται' lemma='λέγω3' postag='v3spie---' relation='PRED_CO' sg='ind stt' gloss='say' head='2'/>
+    <word id='2' form='δὲ' lemma='δέ' postag='d--------' relation='COORD' gloss='and' sg='prt' head='0'/>
+    <word id='3' form='καὶ' lemma='καί' postag='c--------' relation='AuxZ' sg='' gloss='even' head='1'/>
+    <word id='4' form='ὅτι' lemma='ὅτι2' postag='c--------' relation='AuxC' sg='' gloss='that' head='1'/>
+    <word id='5' form='ἐκ' lemma='ἐκ' postag='r--------' relation='AuxP' sg='' gloss='of' head='11'/>
+    <word id='6' form='τῆς' lemma='ὁ' postag='l-s---fg-' relation='ATR' sg='' gloss='the' head='7'/>
+    <word id='7' form='στρατηγίας' lemma='στρατηγία' postag='n-s---fg-' relation='ADV' sg='gnt dpd tmp_plc tmp tmp_ext' gloss='campaign' head='5'/>
+    <word id='8' form='τῆς' lemma='τῆς' postag='p-s---fg-' relation='APOS' sg='sbs gnt dpd tmp_plc tmp tmp_ext' gloss='the' head='7'/>
+    <word id='9' form='ἐν' lemma='ἐν' postag='r--------' relation='AuxP' sg='' gloss='in' head='8'/>
+    <word id='10' form='Σάμῳ' lemma='Σάμος' postag='n-s---fd-' relation='ADV' sg='dtv dpd lcv plc lct cnc' gloss='Samos' head='9'/>
+    <word id='11' form='ἠργυρίσατο' lemma='ἀργυρίζομαι' postag='v3saie---' relation='OBJ' sg='dpn sbs_cls stt ind' gloss='extort.money' head='4'/>
+    <word id='12' form='.' lemma='punc1' postag='u--------' relation='AuxK' sg='' head='0'/>
+  </sentence>
+</treebank>

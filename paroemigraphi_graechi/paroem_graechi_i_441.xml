@@ -1,0 +1,74 @@
+<treebank xmlns:saxon='http:&#x2F;&#x2F;saxon.sf.net&#x2F;' xml:lang='grc' format='smyth3' version='1.5'>
+  <date>Thu Mar 19 14:19:53 +0000 2015</date>
+  <annotator>
+    <short/>
+    <name/>
+    <address/>
+    <uri>http:&#x2F;&#x2F;services2.perseids.org&#x2F;llt&#x2F;segtok</uri>
+  </annotator>
+  <annotator>
+    <short/>
+    <name/>
+    <address/>
+    <uri>http:&#x2F;&#x2F;github.com&#x2F;latin-language-toolkit&#x2F;arethusa</uri>
+  </annotator>
+  <annotator>
+    <short>Marcel Mernitz</short>
+    <name>Marcel Mernitz</name>
+    <address>marcelmernitz@googlemail.com</address>
+    <uri>http:&#x2F;&#x2F;data.perseus.org&#x2F;sosol&#x2F;users&#x2F;Marcel%20Mernitz</uri>
+  </annotator>
+  <sentence id='1' document_id='' subdoc='' span=''>
+    <word id='1' form='Ὁ' lemma='ὁ' postag='l-s---mn-' relation='ATR' gloss='the' sg='' head='3'/>
+    <word id='2' form='περιφόρητος' lemma='περιφόρητος' postag='a-s---mn-' relation='ATR' sg='prp' head='3'/>
+    <word id='3' form='Ἀρτέμων' lemma='Ἀρτέμων' postag='n-s---mn-' relation='SBJ' sg='nmn dpd' gloss='Artemon' head='5'/>
+    <word id='4' form='·' lemma='punc1' postag='u--------' relation='AuxK' sg='' head='0'/>
+    <word id='5' insertion_id='0003e' artificial='elliptic' relation='PRED' lemma='εἰμί' postag='v3spia---' gloss='be' form='ἐστιν' head='0'/>
+  </sentence>
+  <sentence id='2' document_id='' subdoc='' span=''>
+    <word id='1' form='ἐπὶ' lemma='ἐπί' postag='r--------' relation='AuxP' gloss='on' sg='' head='6'/>
+    <word id='2' form='τῶν' lemma='ὁ' postag='l-p---mg-' relation='ATR' sg='' gloss='the' head='4'/>
+    <word id='3' form='πάνυ' lemma='πάνυ' postag='d--------' relation='ADV' sg='' gloss='very' head='4'/>
+    <word id='4' form='ποθουμένων' lemma='ποθέω' postag='v-pppemg-' relation='OBJ' sg='sbs gnt dpd tmp_plc plc lct fgr' gloss='to.be.anxious' head='1'/>
+    <word id='5' form='.' lemma='punc1' postag='u--------' relation='AuxK' sg='' head='0'/>
+    <word id='6' insertion_id='0004e' artificial='elliptic' relation='PRED' sg='ind stt' form='φασὶ' lemma='φημί' postag='v3ppia---' gloss='say' head='0'/>
+  </sentence>
+  <sentence id='3' document_id='' subdoc='' span=''>
+    <word id='1' form='Φασὶ' lemma='φημί' postag='v3spia---' relation='PRED_CO' gloss='say' sg='ind stt' head='2'/>
+    <word id='2' form='γὰρ' lemma='γάρ' postag='d--------' relation='COORD' gloss='since' sg='cau' head='0'/>
+    <word id='3' form='ὅτι' lemma='ὅτι2' postag='c--------' relation='AuxC' sg='' gloss='that' head='1'/>
+    <word id='4' form='νεανίσκος' lemma='νεανίσκος' postag='n-s---mn-' relation='APOS' sg='nmn dpd' gloss='young.man' head='6'/>
+    <word id='5' form='ὁ' lemma='ὁ' postag='l-s---mn-' relation='ATR' sg='' gloss='the' head='6'/>
+    <word id='6' form='Ἀρτέμων' lemma='Ἀρτέμων' postag='n-s---mn-' relation='SBJ' sg='nmn dpd' gloss='Artemon' head='7'/>
+    <word id='7' form='ἐγένετο' lemma='γίγνομαι' postag='v3saim---' relation='OBJ' sg='dpn sbs_cls stt ind' gloss='become' head='3'/>
+    <word id='8' form='περιμάχητος' lemma='περιμάχητος' postag='a-s---mn-' relation='PNOM' sg='prp' gloss='fought.for' head='7'/>
+    <word id='9' form='γυναιξίν' lemma='γυνή' postag='n-p---fd-' relation='OBJ' sg='dtv dpd ins prp ins_mns' gloss='woman' head='7'/>
+    <word id='10' form='·' lemma='punc1' postag='u--------' relation='AuxK' sg='' head='0'/>
+  </sentence>
+  <sentence id='4' document_id='' subdoc='' span=''>
+    <word id='1' form='ἄλλοι' lemma='ἄλλος' postag='p-p---mn-' relation='SBJ' sg='sbs nmn dpd' gloss='other' head='3'/>
+    <word id='2' form='δὲ' lemma='δέ' postag='d--------' relation='COORD' sg='prt' gloss='and' head='0'/>
+    <word id='3' insertion_id='0002e' artificial='elliptic' relation='PRED_CO' form='φασὶ' lemma='φημί' postag='v3ppia---' sg='ind stt' gloss='say' head='2'/>
+    <word id='4' form='ὅτι' lemma='ὅτι2' postag='c--------' relation='AuxC' sg='' gloss='that' head='3'/>
+    <word id='5' form='μηχανοποιὸς' lemma='μηχανοποιός' postag='n-s---mn-' relation='SBJ' sg='nmn dpd' gloss='machinist' head='6'/>
+    <word id='6' form='ἐγένετο' lemma='γίγνομαι' postag='v3saim---' relation='OBJ' sg='dpn sbs_cls stt ind' gloss='become' head='4'/>
+    <word id='7' form='σοφώτατος' lemma='σοφός' postag='a-s---mns' relation='PNOM' sg='prp' gloss='wise' head='6'/>
+    <word id='8' form='κατὰ' lemma='κατά' postag='r--------' relation='AuxP' sg='' gloss='during' head='6'/>
+    <word id='9' form='τοὺς' lemma='ὁ' postag='l-p---ma-' relation='ATR' sg='' gloss='the' head='11'/>
+    <word id='10' form='Περικλέους' lemma='Περικλῆς' postag='n-s---mg-' relation='ATR' gloss='Pericles' sg='gnt dpd prp pss_bln' head='11'/>
+    <word id='11' form='χρόνους' lemma='χρόνος' postag='n-p---ma-' relation='ADV' sg='acc dpd ext tmp sml_lct' gloss='time' head='8'/>
+    <word id='12' form='·' lemma='punc1' postag='u--------' relation='AuxK' sg='' head='0'/>
+  </sentence>
+  <sentence id='5' document_id='' subdoc='' span=''>
+    <word id='1' form='χωλὸς' lemma='χωλός' postag='a-s---mn-' relation='PNOM' sg='prp' gloss='lame' head='3'/>
+    <word id='2' form='δὲ' lemma='δέ' postag='d--------' relation='COORD' gloss='and' sg='prt' head='0'/>
+    <word id='3' form='ὢν' lemma='εἰμί' postag='v-sppamn-' relation='ADV' sg='adj crc cau' gloss='be' head='4'/>
+    <word id='4' form='περιεφέρετο' lemma='περιφέρω' postag='v3siie---' relation='PRED_CO' sg='ind stt' gloss='carry' head='2'/>
+    <word id='5' form='ἔπὶ' lemma='ἐπί' postag='r--------' relation='AuxP' sg='' gloss='for' head='4'/>
+    <word id='6' form='τῷ' lemma='τις' postag='p-s----d-' relation='ADV' sg='sbs dtv dpd ins prp cau' gloss='that' head='5'/>
+    <word id='7' form='ὁρᾶν' lemma='ὁράω' postag='v-sppamn-' relation='ADV' sg='adj crc tmp sml_lct' gloss='observe' head='4'/>
+    <word id='8' form='τὰς' lemma='ὁ' postag='l-p---fa-' relation='ATR' sg='' gloss='the' head='9'/>
+    <word id='9' form='μηχανάς' lemma='μηχανή' postag='n-p---fa-' relation='OBJ' sg='acc dpd aff' gloss='machine' head='7'/>
+    <word id='10' form='.' lemma='punc1' postag='u--------' relation='AuxK' sg='' head='0'/>
+  </sentence>
+</treebank>
