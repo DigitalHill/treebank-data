@@ -1,22 +1,22 @@
-<treebank xml:lang='grc' format='smyth3' version='1.5'>
+<treebank xmlns:saxon='http://saxon.sf.net/' xml:lang='grc' format='smyth3' version='1.5'>
   <date>Mon Mar 23 11:57:21 +0000 2015</date>
   <annotator>
     <short/>
     <name/>
     <address/>
-    <uri>http:&#x2F;&#x2F;services2.perseids.org&#x2F;llt&#x2F;segtok</uri>
+    <uri>http://services2.perseids.org/llt/segtok</uri>
   </annotator>
   <annotator>
     <short/>
     <name/>
     <address/>
-    <uri>http:&#x2F;&#x2F;github.com&#x2F;latin-language-toolkit&#x2F;arethusa</uri>
+    <uri>http://github.com/latin-language-toolkit/arethusa</uri>
   </annotator>
   <annotator>
     <short>Marcel Mernitz</short>
     <name>Marcel Mernitz</name>
     <address>marcelmernitz@googlemail.com</address>
-    <uri>http:&#x2F;&#x2F;data.perseus.org&#x2F;sosol&#x2F;users&#x2F;Marcel%20Mernitz</uri>
+    <uri>http://data.perseus.org/sosol/users/Marcel%20Mernitz</uri>
   </annotator>
   <sentence id='1' document_id='' subdoc='' span=''>
     <word id='1' form='μετὰ' lemma='μετά' postag='r--------' relation='AuxP' sg='' gloss='after' head='8'/>
@@ -32,10 +32,10 @@
     <word id='11' form='Περικλῆς' lemma='Περικλῆς' postag='n-s---mn-' relation='SBJ' sg='nmn dpd' gloss='Pericles' head='18'/>
     <word id='12' form='ἀπὸ' lemma='ἀπό' postag='r--------' relation='AuxP' sg='' gloss='by' head='18'/>
     <word id='13' form='διακοσίων' lemma='διακοσίων' postag='m-p---fg-' relation='ATR' sg='crd adj' gloss='two.hundred' head='14'/>
-    <word id='14' form='νεῶν' lemma='ναῦς' postag='n-p---fg-' relation='OBJ_CO' sg='gnt dpd adp mnn' gloss='ship' head='15'/>
+    <word id='14' form='νεῶν' lemma='ναῦς' postag='n-p---fg-' relation='OBJ_CO' sg='gnt dpd adp ins_mns' gloss='ship' head='15'/>
     <word id='15' form='καὶ' lemma='καί' postag='c--------' relation='COORD' sg='' gloss='and' head='12'/>
     <word id='16' form='χιλίων' lemma='χιλίων' postag='m-p---ng-' relation='ATR' sg='crd adj' gloss='thousand' head='17'/>
-    <word id='17' form='ταλάντων' lemma='τάλαντον' postag='n-p---ng-' relation='OBJ_CO' sg='gnt dpd adp mnn' gloss='talents' head='15'/>
+    <word id='17' form='ταλάντων' lemma='τάλαντον' postag='n-p---ng-' relation='OBJ_CO' sg='gnt dpd adp ins_mns' gloss='talents' head='15'/>
     <word id='18' form='κατεπολέμησε' lemma='καταπολεμέω' postag='v3saia---' relation='PRED_CO' sg='' gloss='reduce' head='2'/>
     <word id='19' form='.' lemma='punc1' postag='u--------' relation='AuxK' sg='' head='0'/>
   </sentence>
