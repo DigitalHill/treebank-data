@@ -1,22 +1,22 @@
-<treebank xmlns:saxon='http:&#x2F;&#x2F;saxon.sf.net&#x2F;' xml:lang='grc' format='smyth3' version='1.5'>
+<treebank xmlns:saxon='http://saxon.sf.net/' xml:lang='grc' format='smyth3' version='1.5'>
   <date>Mon Jan 26 11:01:22 +0000 2015</date>
   <annotator>
     <short/>
     <name/>
     <address/>
-    <uri>http:&#x2F;&#x2F;services2.perseids.org&#x2F;llt&#x2F;segtok</uri>
+    <uri>http://services2.perseids.org/llt/segtok</uri>
   </annotator>
   <annotator>
     <short/>
     <name/>
     <address/>
-    <uri>http:&#x2F;&#x2F;github.com&#x2F;latin-language-toolkit&#x2F;arethusa</uri>
+    <uri>http://github.com/latin-language-toolkit/arethusa</uri>
   </annotator>
   <annotator>
     <short>Marcel Mernitz</short>
     <name>Marcel Mernitz</name>
     <address>marcelmernitz@googlemail.com</address>
-    <uri>http:&#x2F;&#x2F;data.perseus.org&#x2F;sosol&#x2F;users&#x2F;Marcel%20Mernitz</uri>
+    <uri>http://data.perseus.org/sosol/users/Marcel%20Mernitz</uri>
   </annotator>
   <sentence id='1' document_id='' subdoc='' span=''>
     <word id='1' form='ἐπʼ' lemma='ἐπʼ' postag='r--------' relation='AuxP' sg='' gloss='during' head='18'/>
@@ -68,17 +68,17 @@
   <sentence id='3' document_id='' subdoc='' span=''>
     <word id='1' form='οὗτος' lemma='οὗτος' postag='p-s---mn-' relation='SBJ' sg='sbs nmn dpd' gloss='he' head='14'/>
     <word id='2' form='δὲ' lemma='δέ' postag='d--------' relation='COORD' sg='prt' gloss='and' head='0'/>
-    <word id='3' form='πλεύσας' lemma='πλέω' postag='v-sapamn-' relation='ADV_CO' sg='adj crc tmp squ_lct' gloss='sail' head='8'/>
+    <word id='3' form='πλεύσας' lemma='πλέω' postag='v-sapamn-' relation='ADV_CO' sg='adj crc tmp squ_lct' gloss='sail' head='9'/>
     <word id='4' form='ἐπὶ' lemma='ἐπί' postag='r--------' relation='AuxP' sg='' gloss='to' head='3'/>
     <word id='5' form='τὴν' lemma='ὁ' postag='l-s---fa-' relation='ATR' sg='' gloss='the' head='6'/>
     <word id='6' form='Σάμον' lemma='Σάμος' postag='n-s---fa-' relation='ADV' sg='acc dpd drc cnc' gloss='Samos' head='4'/>
-    <word id='7' form='παρεισελθὼν' lemma='παρεισέρχομαι' postag='v-sapamn-' relation='ADV_CO' sg='adj crc tmp squ_lct' gloss='reach' head='8'/>
-    <word id='8' form='δὲ' lemma='δέ' postag='d--------' relation='COORD' sg='prt' gloss='and' head='14'/>
-    <word id='9' form='καὶ' lemma='καί' postag='c--------' relation='AuxY' sg='' gloss='also' head='13'/>
+    <word id='7' form='παρεισελθὼν' lemma='παρεισέρχομαι' postag='v-sapamn-' relation='ADV_CO' sg='adj crc tmp squ_lct' gloss='reach' head='9'/>
+    <word id='8' form='δὲ' lemma='δέ' postag='d--------' relation='AuxY' sg='prt' gloss='and' head='9'/>
+    <word id='9' form='καὶ' lemma='καί' postag='c--------' relation='COORD' sg='' gloss='also' head='14'/>
     <word id='10' form='τῆς' lemma='ὁ' postag='l-s---fg-' relation='ATR' sg='' gloss='the' head='11'/>
     <word id='11' form='πόλεως' lemma='πόλις' postag='n-s---fg-' relation='OBJ' sg='gnt dpd prp tpc' gloss='city' head='12'/>
     <word id='12' form='ἐγκρατὴς' lemma='ἐγκρατής' postag='a-s---mn-' relation='PNOM' sg='prp' gloss='having.possession.of' head='13'/>
-    <word id='13' form='γενόμενος' lemma='γίγνομαι' postag='v-sapmmn-' relation='ADV_CO' sg='adj crc cau' gloss='get' head='8'/>
+    <word id='13' form='γενόμενος' lemma='γίγνομαι' postag='v-sapmmn-' relation='ADV_CO' sg='adj crc cau' gloss='get' head='9'/>
     <word id='14' form='κατέστησε' lemma='καθίστημι' postag='v3saia---' relation='PRED_CO' sg='ind stt' gloss='establish' head='2'/>
     <word id='15' form='δημοκρατίαν' lemma='δημοκρατία' postag='n-s---fa-' relation='OBJ' sg='acc dpd aff' gloss='democracy' head='14'/>
     <word id='16' form='ἐν' lemma='ἐν' postag='r--------' relation='AuxP' sg='' gloss='in' head='14'/>
